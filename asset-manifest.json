@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Diplomski-rad/static/css/main.14e18c27.css",
+    "main.js": "/Diplomski-rad/static/js/main.32504420.js",
+    "index.html": "/Diplomski-rad/index.html",
+    "main.14e18c27.css.map": "/Diplomski-rad/static/css/main.14e18c27.css.map",
+    "main.32504420.js.map": "/Diplomski-rad/static/js/main.32504420.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14e18c27.css",
+    "static/js/main.32504420.js"
+  ]
+}
