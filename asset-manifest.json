@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Diplomski-rad/static/css/main.14e18c27.css",
-    "main.js": "/Diplomski-rad/static/js/main.32504420.js",
+    "main.js": "/Diplomski-rad/static/js/main.766759ac.js",
     "index.html": "/Diplomski-rad/index.html",
     "main.14e18c27.css.map": "/Diplomski-rad/static/css/main.14e18c27.css.map",
-    "main.32504420.js.map": "/Diplomski-rad/static/js/main.32504420.js.map"
+    "main.766759ac.js.map": "/Diplomski-rad/static/js/main.766759ac.js.map"
   },
   "entrypoints": [
     "static/css/main.14e18c27.css",
-    "static/js/main.32504420.js"
+    "static/js/main.766759ac.js"
   ]
 }
